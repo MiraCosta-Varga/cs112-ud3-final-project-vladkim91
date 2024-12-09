@@ -59,7 +59,16 @@ This is a work-in-progress **Texas Hold'em Poker Game** implemented in Java with
 ![Console Screenshot](./screenshot2.png)
 
 ---
+## GIF of the Working Project
+![Texas Hold'em Gameplay](./gif.gif)
 
+---
+## UML Diagram
+Below is the UML diagram for the Texas Hold'em Poker game, representing the relationships and methods used in the project:
+
+![Texas Hold'em UML Diagram](./TexasHoldemPoker_UML.png)
+
+---
 ## Tech Stack
 
 ### Programming Language and Frameworks:

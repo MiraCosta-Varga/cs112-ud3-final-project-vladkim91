@@ -9,7 +9,6 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.StackPane;
 import poker.models.*;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
